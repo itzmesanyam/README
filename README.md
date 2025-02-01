@@ -17,6 +17,7 @@
 <p></p>
 <p></p>
 </p>
+![itsmeSanyam09's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeSanyam09&show_icons=true&theme=vue-dark)
 
 
 
